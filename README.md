@@ -1,1 +1,1 @@
-This file is mandatory in all School projects
+Make sure your commit and push your code to Github - otherwise the Checker will always fail.
